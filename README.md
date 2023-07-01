@@ -31,7 +31,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Sklearn](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning) - Sklearn
 * [Numpy](https://numpy.org/) - Numpy
 * [statmodels](https://www.statsmodels.org/stable/index.html) - Statsmodels
-* [Yfinance]([https://www.statsmodels.org/stable/index.html](https://pypi.org/project/yfinance/) - Yfinance
+* [Yfinance](https://pypi.org/project/yfinance/) - Yfinance
  
 ## 📄 Licença
 
