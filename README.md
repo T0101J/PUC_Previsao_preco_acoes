@@ -14,14 +14,14 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 - Python Instalado
-- Bibliotecas Matplotlib, numpy, pandas e sklearn, statsmodel
+- Bibliotecas Matplotlib, numpy, pandas e sklearn, statsmodels
 - Jupyter Notebook
 
 ## 📦 Implantação
 
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
-- No caso precisa-se da base de dados e adaptar a o read csv do Pandas
+- No caso precisa-se da base de dados e possível de captar por meio da biblioteca Yahoo Finance
 
 ## 🛠️ Construído com
 
@@ -30,7 +30,8 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Pandas](https://pandas.pydata.org/) - Pandas
 * [Sklearn](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning) - Sklearn
 * [Numpy](https://numpy.org/) - Numpy
-* [statmodels]([https://numpy.org/](https://www.statsmodels.org/stable/index.html)) - Statsmodels
+* [statmodels](https://www.statsmodels.org/stable/index.html) - Statsmodels
+* [Yfinance]([https://www.statsmodels.org/stable/index.html](https://pypi.org/project/yfinance/) - Yfinance
  
 ## 📄 Licença
 
